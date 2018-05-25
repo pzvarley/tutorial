@@ -2,7 +2,11 @@
 <ProxyEndpoint name="default">
     <PreFlow>
         <Request/>
-        <Response/>
+        <Response>
+            <Step>
+                <Name>XmlToJSON</Name>
+            </Step>
+        </Response>
     </PreFlow>
     <Flows/>
     <PostFlow>

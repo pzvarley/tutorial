@@ -1,0 +1,6 @@
+<XMLToJSON name="XmlToJSON">
+  <Options>
+  </Options>
+  <OutputVariable>response</OutputVariable>
+  <Source>response</Source>
+</XMLToJSON>
